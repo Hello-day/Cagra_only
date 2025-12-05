@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mzhou/FusionGPU copy/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
